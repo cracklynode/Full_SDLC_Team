@@ -1,0 +1,13 @@
+project_root: ".."
+agent_folder: "../agents"
+output_folder: "../outputs"
+src_folder: "../src"
+infra_folder: "../infra"
+
+execution_order:
+  - 01_product_owner.md
+  - 02_analyst.md
+  - 03_designer.md
+  - 04_developer.md
+  - 05_QA.md
+  - 06_DevOps.md
